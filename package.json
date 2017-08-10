@@ -1,0 +1,14 @@
+{
+  "name": "srs_shashank",
+  "version": "1.0.0",
+  "description": "Shashank Rammoorthy's application for the Summer Research School 2017.",
+  "main": "main.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opencv": "^6.0.0"
+  }
+}
